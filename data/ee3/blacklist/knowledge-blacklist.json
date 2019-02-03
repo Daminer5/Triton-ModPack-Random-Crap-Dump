@@ -1,0 +1,6329 @@
+[
+  {
+    "orestack": {
+      "name": "oreAdamantine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAlduorite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAmmonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreArdite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAstralSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreAtlarus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltPyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBasaltZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryEssence"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreberryTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgranitePyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlackgraniteZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlueDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlueGem"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrokenZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushEssence"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orebushTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCarbon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCarmot"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCeruclase"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreChargedCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCheese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCobalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrushedZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreCrystal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDeepIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseArdite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseChargedCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseCheese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseCobalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseMithril"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNaturalAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherMagnesium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherMithril"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherPeridot"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherPlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNetherUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDensePeridot"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDensePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseYellorite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDenseYellorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDilithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDraconium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreDustZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreElectrotine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstonePyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEndstoneZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEssence"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreEximite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreFirestone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreFluorite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreFZDarkIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGravelZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGreenDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreHexoriumBlack"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreHexoriumBlue"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreHexoriumGreen"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreHexoriumRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreHexoriumWhite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreIgnatius"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfuscolium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreKalendrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLemurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMagnesium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarblePyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMarbleZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMercury"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMeutoite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMidasium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMinicio"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMithril"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNaturalAluminum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherBrokenZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherGravelZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherHexoriumBlack"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherHexoriumBlue"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherHexoriumGreen"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherHexoriumRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherHexoriumWhite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherMagnesium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherMithril"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherPeridot"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherPlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackPyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherrackZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNetherUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOrichalcum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreOureclase"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePeridot"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePoorCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePoorGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePoorIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePoorLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePoorTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowderedZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePrometheum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePurpleDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "orePyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreQuartzBlack"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedGem"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAlmandine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAluminium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAmber"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAmethyst"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteApatite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBandedIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBarite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBastnasite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBauxite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBentonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBlueTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteBrownLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCalcite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCassiterite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCassiteriteSand"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCertusQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteChalcopyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteChromite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCinnabar"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCoal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCobaltite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCooperite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteDiatomite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteEmerald"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteFoolsRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGalena"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGarnetRed"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGarnetYellow"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGarnierite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGlauconite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGreenSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteGrossular"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteIlmenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedAir"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedEarth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedEntropy"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedFire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedOrder"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteInfusedWater"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteIridium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLapis"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLazurite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLead"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLepidolite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLignite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMagnesite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMalachite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMolybdenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteMonazite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNetherQuartz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteNickel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteOilsands"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteOlivine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteOpal"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteOsmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePalladium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePentlandite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePhosphate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePhosphorus"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePitchblende"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePlatinum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePowellite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePyrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePyrolusite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgranitePyrope"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteQuartzite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedgraniteZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRedstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRockSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRubracium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreRuby"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSalt"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSaltpeter"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandAnyCopper"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandAnyIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandBeryllium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandBismuth"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandBoron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandCadmium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandChrome"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandDarkSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandDesh"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandGraphite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandIndium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandInfusedGold"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandLithium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandManganese"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandMeteoricIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandMolybdenum"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandNaquadah"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandNaquadahEnriched"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandNaquadria"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandNeodymium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandObsidian"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandPlutonium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSandZinc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSanguinite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSapphire"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreScheelite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreShadowIron"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSheldonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSilicon"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSilver"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSoapstone"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSodalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSpessartine"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSphalerite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSpodumene"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSteel"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreStibnite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreSulfur"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTalc"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTantalite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTanzanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTetrahedrite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreThorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTin"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTitanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTopaz"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTritanium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTungstate"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreTungsten"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreUraninite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreUranium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreUranium235"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreVanadiumMagnetite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreVulcanite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreVyroxeres"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreWhiteGem"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreWulfenite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellorite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellorium"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellowDiamond"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreYellowLimonite"
+    }
+  },
+  {
+    "orestack": {
+      "name": "oreZinc"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "minecraft:coal_ore"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 5
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 6
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ImmersiveEngineering:metal",
+      "metaValue": 20
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 1
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:alchemicalDust",
+      "metaValue": 2
+    }
+  },
+  {
+    "itemstack": {
+      "name": "EE3:shardMinium"
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ExtraUtilities:mini-soul",
+      "metaValue": 32767
+    }
+  },
+  {
+    "itemstack": {
+      "name": "ExtraUtilities:unstableingot",
+      "metaValue": 32767
+    }
+  }
+]

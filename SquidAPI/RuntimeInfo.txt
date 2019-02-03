@@ -1,0 +1,759 @@
+Transformers:
+- logisticspipes.asm.LogisticsPipesClassInjector
+- cpw.mods.fml.common.asm.transformers.PatchingTransformer
+- optifine.OptiFineClassTransformer
+- cpw.mods.fml.common.asm.transformers.MarkerTransformer
+- cpw.mods.fml.common.asm.transformers.SideTransformer
+- cpw.mods.fml.common.asm.transformers.EventSubscriptionTransformer
+- net.minecraftforge.classloading.FluidIdTransformer
+- com.github.Simon04090.AppliedExchange.core.AppliedExchangeClassTransformer
+- appeng.transformer.asm.ASMIntegration
+- codechicken.lib.asm.ClassHeirachyManager
+- codechicken.core.asm.InterfaceDependancyTransformer
+- codechicken.core.asm.TweakTransformer
+- codechicken.core.asm.DelegatedTransformer
+- codechicken.core.asm.DefaultImplementationTransformer
+- com.mordenkainen.equivalentenergistics.asm.EqECoreTransformer
+- mrtjp.relocation.asm.Transformer
+- myrathi.infinibows.asm.BowTransformer
+- invtweaks.forge.asm.ContainerTransformer
+- fi.dy.masa.itemscroller.asm.GuiScreenTransformer
+- logisticspipes.asm.LogisticsClassTransformer
+- micdoodle8.mods.miccore.MicdoodleTransformer
+- mcp.mobius.mobiuscore.asm.CoreTransformer
+- ru.fewizz.idextender.asm.IETransformer
+- codechicken.nei.asm.NEITransformer
+- li.cil.oc.common.asm.ClassTransformer
+- api.player.forge.PlayerAPITransformer
+- coolsquid.squidapi.asm.SquidAPIPlugin
+- thaumic.tinkerer.preloader.AccessTransformer
+- witchinggadgets.asm.WGCoreTransformer
+- openmods.core.OpenModsClassTransformer
+- openblocks.asm.OpenBlocksClassTransformer
+- net.specialattack.forge.core.asm.SpACoreModTransformer
+- net.specialattack.forge.core.asm.SpACoreHookTransformer
+- net.specialattack.forge.core.asm.SpACoreDebugGuiTransformer
+- net.specialattack.forge.core.asm.SpACoreGLTransformer
+- me.guichaguri.betterfps.transformers.MathTransformer
+- me.guichaguri.betterfps.transformers.EventTransformer
+- cpw.mods.fml.common.asm.transformers.DeobfuscationTransformer
+- cpw.mods.fml.common.asm.transformers.AccessTransformer
+- net.minecraftforge.transformers.ForgeAccessTransformer
+- appeng.transformer.asm.ASMTweaker
+- aroma1997.core.coremod.asm.AromaAccessTransformer
+- codechicken.core.asm.CodeChickenAccessTransformer
+- cofh.asm.CoFHAccessTransformer
+- invtweaks.forge.asm.ITAccessTransformer
+- logisticspipes.asm.LogisticsAccessTransformer
+- micdoodle8.mods.miccore.MicdoodleAccessTransformer
+- mcp.mobius.mobiuscore.asm.CoreAccessTransformer
+- net.specialattack.forge.core.asm.SpACoreAccessTransformer
+- thaumic.tinkerer.preloader.AccessTransformer
+- cpw.mods.fml.common.asm.transformers.ModAccessTransformer
+- cpw.mods.fml.common.asm.transformers.ItemStackTransformer
+- com.brandon3055.brandonscore.asm.ClassTransformer
+- cofh.asm.CoFHClassTransformer
+- net.blay09.mods.craftingtweaks.coremod.GuiScreenClassTransformer
+- Reika.DragonAPI.ASM.InterfaceInjector
+- Reika.DragonAPI.ASM.APIStripper
+- Reika.DragonAPI.ASM.DragonAPIClassTransformer
+- Reika.DragonAPI.ASM.FMLItemBlockPatch
+- Reika.DragonAPI.ASM.FluidNamePatch
+- Reika.DragonAPI.ASM.DependentMethodStripper
+- com.gildedgames.util.threadedlighting.asm.TLTransformer
+- lumien.randomthings.Transformer.RTClassTransformer
+- Reika.RotaryCraft.Auxiliary.RotaryASMHandler$ASMExecutor
+- Reika.RotaryCraft.Auxiliary.RotaryASMHandler$InterfaceVerifier
+- info.loenwind.waterhooks.BlockDynamicLiquidVisitor
+- squeek.applecore.asm.TransformerModuleHandler
+- com.enderio.core.common.transform.EnderCoreTransformer
+- com.enderio.core.common.transform.EnderCoreTransformerClient
+- fastcraft.J
+- cpw.mods.fml.common.asm.transformers.TerminalTransformer
+- cpw.mods.fml.common.asm.transformers.ModAPITransformer
+
+Transformer exclusions:
+- aroma1997.core.coremod.CoreMod
+- net.specialattack.forge.core.asm
+- com.github.Simon04090.AppliedExchange.core.AppliedExchangeCore
+- myrathi.infinibows
+- codechicken.core.launch.CodeChickenCorePlugin
+- Reika.DragonAPI.Libraries.Java.ReikaASMHelper
+- org.objectweb.asm.
+- info.loenwind.waterhooks.WaterHooksCoreMod
+- thaumic.tinkerer.preloader.ThaumicTLoaderContainer
+- me.guichaguri.betterfps.transformers
+- invtweaks.forge.asm.FMLPlugin
+- codechicken.lib.config
+- com.endertech.minecraft.forge.coremod.DummyPlugin
+- squeek.applecore.asm
+- com.enderio.core.common.transform.EnderCorePlugin
+- invtweaks.forge.asm
+- net.specialattack.forge.core.asm.SpACorePlugin
+- logisticspipes.asm.
+- net.minecraft.launchwrapper.injector.
+- Reika.DragonAPI.ModInteract.BannedItemReader
+- mcp.mobius.mobiuscore.asm.CoreDescription
+- com.google.common.
+- javax.
+- myrathi.infinibows.LoadingPlugin
+- myrathi.infinibows.asm
+- kihira.tails.common.FoxLibManager
+- openmods.include.
+- net.blay09.mods.craftingtweaks.coremod
+- com.gildedgames.util.threadedlighting.asm
+- micdoodle8.mods.galacticraft.api.entity.IEntityBreathable
+- logisticspipes.asm.LogisticsPipesCoreLoader
+- ic2.core.coremod.IC2core
+- aroma1997.core.coremod.asm
+- me.guichaguri.betterfps.tweaker
+- ru.fewizz.idextender.IEPlugin
+- Reika.RotaryCraft.Auxiliary.RotaryASMHandler
+- openblocks.OpenBlocksCorePlugin
+- com.gildedgames.util.threadedlighting.TLLoadingPlugin
+- coolsquid.squidapi.exception
+- mrtjp.relocation.asm.RelocationPlugin
+- codechicken.nei.asm
+- net.blay09.mods.craftingtweaks.coremod.CraftingTweaksLoadingPlugin
+- codechicken.core.launch.DepLoader
+- Reika.LegacyCraft.LegacyASMHandler
+- Reika.DragonAPI.Libraries.Java.ReikaJVMParser
+- com.brandon3055.brandonscore.asm.
+- codechicken.lib.asm
+- mekanism.common.asm.LoadingHook
+- openmods.injector.
+- com.brandon3055.brandonscore.asm.LoadingPlugin
+- lumien.randomthings.Transformer.RTLoadingPlugin
+- cpw.mods.fml.common.asm.transformers.deobf.
+- squeek.applecore.AppleCore
+- coolsquid.squidapi.asm.SquidAPIPlugin
+- mcp.mobius.mobiuscore.asm
+- thaumcraft.codechicken.core.launch.DepLoader
+- Reika.ChromatiCraft.Auxiliary.ChromaASMHandler
+- coolsquid.squidapi.asm
+- fi.dy.masa.itemscroller.asm.
+- ru.fewizz.idextender.asm
+- openmods.core.OpenModsCorePlugin
+- com.github.Simon04090.AppliedExchange.core
+- invtweaks.forge.asm.compatibility
+- cpw.mods.fml.relauncher.
+- openmods.Log
+- li.cil.oc.common.asm
+- Reika.DragonAPI.Auxiliary.DragonAPIASMHandler
+- mrtjp.core.handler.CorePlugin
+- org.bouncycastle.
+- codechicken.core.asm
+- squeek.asmhelper
+- info.inpureprojects.core.Preloader.INpurePreLoader
+- Reika.DragonAPI.Exception.ASMException
+- api.player.forge
+- micdoodle8.mods.miccore
+- codechicken.nei.asm.NEICorePlugin
+- cpw.mods.fml.relauncher.FMLCorePlugin
+- cpw.mods.fml.common.patcher.
+- scala
+- net.minecraftforge.classloading.FMLForgePlugin
+- Reika.RotaryCraft.Auxiliary.RotaryIntegrationManager
+- codechicken.obfuscator
+- cofh.asm.
+- com.mordenkainen.equivalentenergistics.asm.EqECoreLoader
+- cpw.mods.fml.common.asm.transformers.
+- Reika.DragonAPI.ASM
+- fastcraft
+- cpw.mods.fml.repackage.
+- appeng.transformer.AppEngCore
+- openmods.asm.
+- li.cil.oc.common.launch.TransformerLoader
+- cofh.repack.codechicken.lib.asm.
+- api.player.forge.PlayerAPIPlugin
+- micdoodle8.mods.miccore.MicdoodlePlugin
+- aroma1997.core.coremod
+- openmods.core.
+- cofh.repack.codechicken.lib.config.
+- mrtjp.relocation.asm
+- fi.dy.masa.itemscroller.asm.ItemScrollerLoadingPlugin
+- witchinggadgets.asm.WitchingGadgetsCoreLoader
+- argo.
+- cofh.asm.LoadingPlugin
+
+Mod list:
+- AE2 Stuff 0.5.1.9
+- AE2 Wireless Crafting Terminal 1.7.10-rv3-1.8.7.4b
+- Actually Additions 1.7.10-r21
+- AdMinecraft 1.1.4
+- AdminCommandsToolbox 0.0.2a_1.7.10
+- Advanced Generators 0.9.20.123
+- Aether II 1.7.10-1.6
+- AgriCraft 1.7.10-1.5.0
+- Another One Bites The Dust 2.9.2
+- AppleCore 3.1.0
+- Applied Energistics 2 rv3-beta-6
+- Applied Energistics 2 Core rv3-beta-6
+- Applied Exchange Core 1
+- Arcane Engineering 0.2.7
+- Aroma1997's Dimensional World 1.0
+- Aroma1997Core 1.0.2.16
+- Aroma1997Core|Helper 1.0.2.16
+- Avaritia 1.13
+- Avaritiaddons 1.4b
+- BC Builders 7.1.23
+- BC Energy 7.1.23
+- BC Factory 7.1.23
+- BC Robotics 7.1.23
+- BC Silicon 7.1.23
+- BC Transport 7.1.23
+- BD Lib 1.9.4.109
+- Baublelicious 1.7.10-1.2.2-final
+- Baubles 1.0.1.10
+- Better Achievements 0.1.0
+- Better Builder's Wands 0.8.1
+- BiblioCraft 1.11.7
+- BiblioWoods Forestry Edition 1.7
+- BiblioWoods Natura Edition 1.5
+- Big Reactors 0.4.3A
+- Binnie Core 2.0.22.7
+- Blood Magic: Alchemical Wizardry v1.3.3
+- Boilerplate 6.3.0.81
+- Botania r1.8-249
+- Botany 2.0.22.7
+- Brandon's Core 1.0.0.12
+- BuildCraft 7.1.23
+- BuildCraft Compat 7.1.7
+- Carpenter's Blocks 3.3.8.1
+- Chance Cubes 1.7.10-2.4.1.0
+- ChickenChunks 1.3.4.19
+- Chisel 2.9.5.11
+- Classic Oceans 1.7.10-1.0.0
+- CoFH ASM 000
+- CoFH Core 1.7.10R3.1.4
+- CodeChicken Core 1.0.7.47
+- Compact Solar Arrays 4.4.39.315
+- Compacter 1.1.0.12
+- ComputerCraft 1.75
+- Computronics 1.6.4
+- ContentTweaker 1.0.5
+- Convenient Recipes 1.3.1
+- Cooking for Blockheads 1.0.140
+- CosmeticArmorReworked 1.7.10-v6b
+- Crafting Tweaks 1.0.88
+- Custom Main Menu 1.9.2
+- CustomThings MC1.7.10-0.0.3-55
+- Death Quotes 1.0.1
+- Draconic Evolution 1.0.2h
+- DragonAPI v19c
+- DragonAPI ASM Data Initialization 0
+- ElectriCraft v19b
+- Ender IO 1.7.10-2.3.0.429_beta
+- Ender IO Addons 0.10.13
+- EnderCore 1.7.10-0.2.0.39_beta
+- EnderStorage 1.4.7.37
+- EnderTech 1.7.10-0.3.2.405
+- Equivalent Energistics 0.8
+- Equivalent Energistics Core 0.8
+- Equivalent Exchange 3 0.3.0.547
+- Eternal Singularity 1.7.10-.1.0.3
+- Ex Astris Rebirth MC1.7.10-1.01-45
+- Ex Nihilo 1.38-53
+- Experience Rings 1.3.0
+- Extra Bees 2.0.22.7
+- Extra Cells 2 2.3.14
+- Extra Planets 1.9.4
+- Extra Trees 2.0.22.7
+- Extra Utilities 1.2.12
+- ExtraTiC 1.4.6
+- FTB Tweaks 1.0.2
+- FTBLib 1.0.18.2
+- FTBUtilities 1.0.18.2
+- FastCraft 1.25
+- Fluxed-Core 1.0.9
+- Forbidden Magic 1.7.10-0.575
+- Forestry for Minecraft 4.2.16.64
+- Forge Endertech 1.7.10-1.9.2.0
+- Forge Microblocks 1.2.0.345
+- Forge Mod Loader 7.10.99.99
+- Forge Multipart 1.2.0.345
+- ForgeRelocation 0.0.1.4
+- FoxLib 1.7.10-0.7.0
+- Funky Locomotion 1.0
+- Galacticraft Core 3.0.12
+- Galacticraft Planets 3.0.12
+- GenDustry 1.6.3.132
+- Genetics 2.0.22.7
+- Gilded Games Utility 1.7.10-1.2
+- HEXCraft 0.11.0
+- Hardcore Wither 1.1.3
+- Hats 4.0.1
+- HelpFixer 1.0.7
+- INpureCore 1.7.10R1.0.0B9
+- IcyAdmin 1.0.6
+- Iguana Tinker Tweaks 1.7.10-2.1.6.163
+- Immersive Engineering 0.7.7
+- Immersive Integration 0.6.8
+- InGame Info XML 2.8.1.82
+- IndustrialCraft 2 2.2.827-experimental
+- InfiniBows 1.3.0 build 20
+- Inventory Tweaks 1.59-dev-152-cf6e263
+- Iron Chest 6.0.62.742
+- Item Scroller 0.12.0-alpha.1
+- Item Scroller CoreMod 0.12.0-alpha.1
+- JABBA 1.2.2
+- JourneyMap 5.1.4p2
+- KleeSlabs 1.0
+- Logistics Pipes 0.9.3.132
+- Loot Bags 2.0.17
+- LunatriusCore 1.1.2.21
+- MCFrames 1.0
+- MFR Compat ProjectRed 1.7.10R2.8.1
+- MFR Compat: Applied Energistics 1.7.10R2.8.1
+- MFR Compat: Atum 1.7.10R2.8.1
+- MFR Compat: BackTools 1.7.10R2.8.1
+- MFR Compat: BuildCraft 1.7.10R2.8.1
+- MFR Compat: Chococraft 1.7.10R2.8.1
+- MFR Compat: ExtraBiomes 1.7.10R2.8.1
+- MFR Compat: Forestry 1.7.10R2.8.1
+- MFR Compat: ForgeMicroblock 1.7.10R2.8.1
+- MFR Compat: IC2 1.7.10R2.8.1
+- MFR Compat: MagicalCrops 1.2.4
+- MFR Compat: Railcraft 1.7.10R2.8.1
+- MFR Compat: Sufficient Biomes 1.7.10R2.8.1
+- MFR Compat: Thaumcraft 1.7.10R2.8.1
+- MFR Compat: Thermal Expansion 1.7.10R2.8.1
+- MFR Compat: Tinkers' Construct 1.7.10R2.8.1
+- MFR Compat: TwilightForest 1.7.10R2.8.1
+- MFR Compat: Vanilla 1.7.10R2.8.1
+- MPUtils 1.0.0
+- Magic Bees 2.4.4
+- Magical Crops: Armoury 4.0.0_PUBLIC_BETA_4
+- Magical Crops: Core 4.0.0_PUBLIC_BETA_4b
+- Magical Crops: Decorative 4.0.0_PUBLIC_BETA_4a
+- Mantle 1.7.10-0.3.2.jenkins191
+- Matter Overdrive 0.4.2
+- Mekanism 9.1.1
+- MekanismGenerators 9.1.1
+- MekanismTools 9.1.1
+- Mercurius 1.0.6
+- Micdoodle8 Core 
+- MineFactory Reloaded 1.7.10R2.8.1
+- MineTweaker 3 3.0.13
+- MineTweakerRecipeMaker 1.0
+- Minecraft Coder Pack 9.05
+- Minecraft Forge 10.13.4.1614
+- Minecraft Multipart Plugin 1.2.0.345
+- MinefactoryReloaded & MagicalCrops extra compatibility 1.1
+- MobiusCore 1.2.5
+- Mod Support 0.36.0_1.7.10-28a7f13
+- Mod Tweaker 2 0.9.6
+- ModPack Basic Tools 1.0.0
+- Modular Forcefield System 3.0-ALPHA-7
+- Moo Fluids 1.7.10-1.5.01.19a
+- More Chisels @VERSION@
+- Morpheus 1.7.10-1.6.21
+- Mouse Tweaks 2.4.4
+- MrTJPCore 1.1.0.33
+- NEI Addons 1.12.14.40
+- NEI Addons: Applied Energistics 2 1.12.14.40
+- NEI Addons: Botany 1.12.14.40
+- NEI Addons: Crafting Tables 1.12.14.40
+- NEI Addons: Developer Tools 1.12.14.40
+- NEI Addons: Ex Nihilo 1.12.14.40
+- NEI Addons: Forestry 1.12.14.40
+- NEI Integration 1.1.2
+- Natura 2.2.0
+- Nether Ores 1.7.10R2.3.1
+- Nether Portal Fix 1.0
+- NoMoreRecipeConflict 1.7.10
+- Not Enough Items 1.0.5.120
+- Not Enough Resources 0.1.0.ManuallyBuilt
+- NotEnoughIDs 1.4.3.4
+- NotEnoughKeys @MOD_VERSION@
+- Nuclear Control 2 2.4.3a
+- NuclearCraft 1.9g
+- Open Modular Turrets 2.2.11-238
+- OpenBlocks 1.6
+- OpenComputers 1.7.1.1127
+- OpenComputers (Core) 1.7.1.1127
+- OpenMods 0.10
+- OpenModsCore 0.10
+- OpenPeripheralAddons 0.6
+- OpenPeripheralCore 1.4
+- OpenPeripheralIntegration 0.6
+- Pam's HarvestCraft 1.7.10j
+- Player API 1.4
+- PneumaticCraft 1.12.7-152
+- PortalGun 4.0.0-beta-6
+- ProjectE 1.7.10-PE1.10.1
+- ProjectE Aether Addon 1.7.10-PEA1.0.0
+- ProjectRed Compatibility 4.7.0pre12.95
+- ProjectRed Core 4.7.0pre12.95
+- ProjectRed Expansion 4.7.0pre12.95
+- ProjectRed Exploration 4.7.0pre12.95
+- ProjectRed Illumination 4.7.0pre12.95
+- ProjectRed Integration 4.7.0pre12.95
+- ProjectRed Transmission 4.7.0pre12.95
+- ProjectRed Transportation 4.7.0pre12.95
+- RFTools 4.23
+- Railcraft 9.12.2.0
+- Ranchable Fluid Cows 1.7.10-1.1.5
+- Random Things 2.2.4
+- ReAuth 3.5.0
+- ReactorCraft v19c
+- RebornCore 1.1.0.15
+- Redstone Armory 1.7.10-1.2.0-41
+- Redstone Arsenal 1.7.10R1.1.3
+- RelocationFMP 0.0.1.2
+- Roguelike Dungeons 1.5.0
+- RotaryCraft v19c
+- Router Reborn 1.2.0.43
+- Simple Achievements MC1.7.10-1.1.0-21
+- SimpleLabels @VERSION@
+- Simply Jetpacks 1.5.3
+- SkyLandsForge 1.7.10_0.0.4
+- Snad 1.7.10-1.6.01.31a
+- Solar Flux 1.7.10-0.8b
+- SpACore 01.05.12
+- SquidAPI 1.1.14
+- StartingInventory 1.7.10.r03
+- Storage Drawers 1.7.10-1.10.9
+- Storage Drawers: Forestry Pack 1.7.10-1.1.2
+- Sync 4.0.1
+- TC Inventory Scanning 1.0.11
+- Tails 1.7.10-1.4.1a
+- TechReborn 0.7.20.1118
+- Thaumcraft 4.2.3.5
+- Thaumcraft NEI Plugin @VERSION@
+- Thaumic Equivalence 1.7.10-1.0.4
+- Thaumic Exploration 0.6.0
+- Thaumic Horizons 1.1.9
+- Thaumic Tinkerer unspecified
+- Thaumic Tinkerer Core 0.1
+- Thermal Dynamics 1.7.10R1.2.1
+- Thermal Expansion 1.7.10R4.1.5
+- Thermal Foundation 1.7.10R1.2.6
+- Thermal Singularities 1.7.10-1.2
+- Threaded Lighting 1.7.10-1.0
+- TiC Tooltips 1.2.5
+- Tinker I/O release 1.5.0
+- Tinkers Construct Auto Tool Station 1.1.2
+- Tinkers' Construct 1.7.10-1.8.8.build988
+- Tinkers' Mechworks 0.2.15.106
+- Translocator 1.1.2.16
+- Traveller's Gear 1.16.6
+- Tree Growing Simulator 2014 0.0.3
+- UniDict 1.7.10-2.9.2
+- Universal Singularities 1.7.10-8.0
+- Vein Miner 0.36.0_1.7.10-28a7f13
+- WAILA Plugins MC1.7.10-0.2.0-25
+- Waila 1.5.10
+- Waila Harvestability 1.1.6
+- WanionLib 1.7.10-1.8
+- Water Hooks 1.2.1
+- Waystones 1.0.12
+- What Are We Looking At 1.3.1
+- Witching Gadgets 1.1.10
+- Witching Gadgets Core 1.1.10
+- WorldEdit 6.1.1
+- Zetta Industries 1.1
+- Ztones 1.7.10
+- asielib 0.4.7
+- bspkrsCore 6.16
+- enderbatteries 1.0
+- iChunUtil 4.2.3
+- p455w0rd's Library 1.0.4
+- §9MrCrayfish's Furniture Mod 3.4.7
+
+Classpath files:
+- file:/D:/Minecraft/MultiMC/jars/NewLaunch.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl/2.9.4-nightly-20150209/lwjgl-2.9.4-nightly-20150209.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.4-nightly-20150209/lwjgl_util-2.9.4-nightly-20150209.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/mojang/netty/1.6/netty-1.6.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/mojang/realms/1.3.5/realms-1.3.5.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar
+- file:/D:/Minecraft/MultiMC/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+- file:/D:/Minecraft/MultiMC/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/google/guava/guava/17.0/guava-17.0.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar
+- file:/D:/Minecraft/MultiMC/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/mojang/authlib/1.5.21/authlib-1.5.21.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar
+- file:/D:/Minecraft/MultiMC/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forge-1.7.10-10.13.4.1614-1.7.10-universal.jar
+- file:/D:/Minecraft/MultiMC/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar
+- file:/D:/Minecraft/MultiMC/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+- file:/D:/Minecraft/MultiMC/libraries/com/mojang/minecraft/1.7.10/minecraft-1.7.10-client.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/%5B1.7.10%5DAppliedExchange-1.7.10-0.1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AppleCore-mc1.7.10-3.1.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/appliedenergistics2-rv3-beta-6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Aroma1997Core-1.7.10-1.0.2.16.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BetterFps-1.0.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BrandonsCore-1.0.0.12.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CodeChickenCore-1.7.10-1.0.7.47-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/CodeChickenLib-1.7.10-1.1.3.138-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CoFHCore-%5B1.7.10%5D3.1.4-329.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/craftingtweaks-mc1.7.10-1.0.88.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/DragonAPI%201.7.10%20V19c.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EnderCore-1.7.10-0.2.0.39_beta.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EquivalentEnergistics-1.7.10-0.8.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/fastcraft-1.25.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/forestry_1.7.10-4.2.16.64.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ForgeEndertech-1.7.10-1.9.2.0-build.0061.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/ForgeMultipart-1.7.10-1.2.0.345-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/ForgeRelocation-1.7.10-0.0.1.4-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/gilded-games-util-1.7.10-1.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/industrialcraft-2-2.2.827-experimental.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/InfiniBows-1.7.10-universal-coremod-1.3.0.20.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/INpureCore-%5B1.7.10%5D1.0.0B9-62.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/InventoryTweaks-1.59-dev-152.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/itemscroller-1.7.10-0.12.0-alpha.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/logisticspipes-0.9.3.132.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Mekanism-1.7.10-9.1.1.1031.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MicdoodleCore-1.7-3.0.12.498.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MobiusCore-1.2.5_1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/MrTJPCore-1.1.0.33-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NotEnoughIDs-1.4.3.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NotEnoughItems-1.7.10-1.0.5.120-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenBlocks-1.7.10-1.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenComputers-MC1.7.10-1.7.1.1127-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenModsLib-1.7.10-0.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OptiFine_1.7.10_HD_U_C1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/PlayerAPI-1.7.10-1.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Base.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RandomThings-2.2.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RotaryCraft%201.7.10%20V19c.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SpACore-1.7.10-01.05.12.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SquidAPI-1.1.15.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Tails-1.7.10-1.4.1a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Thaumcraft-1.7.10-4.2.3.5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThaumicExploration-1.7.10-1.1-53.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThaumicTinkerer-2.5-1.7.10-164.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/waterhooks-1.2.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/WitchingGadgets-1.7.10-1.1.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ic2/EJML-core-0.26.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CoFHLib-%5B1.7.10%5D1.2.1-185.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/mcjtylib-1.8.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/commons-codec-1.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/commons-compress-1.8.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/%5B1.7.10%5DbspkrsCore-universal-6.16.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/%5B1.7.10%5DStartingInventory-universal-1.7.10.r03.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/buildcraft-7.1.23.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ActuallyAdditions-1.7.10-r21.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AdminCommandsToolbox-0.0.2a_1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AdminCraft%201.1.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/bdlib-1.9.4.109-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ae2stuff-rv3-0.5.1.9-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/aether-1.7.10-1.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AgriCraft-1.7.10-1.5.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BloodMagic-1.7.10-1.3.3-17.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/Baubles-1.7.10-1.0.1.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Botania%20r1.8-249.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Avaritia-1.13.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Railcraft_1.7.10-9.12.2.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThermalFoundation-%5B1.7.10%5D1.2.6-118.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ImmersiveEngineering-0.7.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/arcane_engineering-0.2.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AsieLib-1.7.10-0.4.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/WanionLib-1.7.10-1.8.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Avaritiaddons-1.4b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/baublelicious-1.7.10-1.2.2-final.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BetterAchievements-1.7.10-0.1.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BetterBuildersWands-0.8.1-1.7.10r92+aec06c3.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BiblioCraft%5Bv1.11.7%5D%5BMC1.7.10%5D.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Mantle-1.7.10-0.3.2b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/natura-1.7.10-2.2.0.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BiblioWoods%5BForestry%5D%5Bv1.7%5D.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BiblioWoods%5BNatura%5D%5Bv1.5%5D.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThermalExpansion-%5B1.7.10%5D4.1.5-248.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/BigReactors-0.4.3A.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/binnie-mods-1.7.10-2.0.22.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/boilerplate-1.7.10-6.3.0.81-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/buildcraft-compat-7.1.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EquivalentExchange3-1.7.10-0.3.0.547.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Chisel-2.9.5.11.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Carpenter's%20Blocks%20v3.3.8.1%20-%20MC%201.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ChanceCubes-1.7.10-2.4.1.182.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ChickenChunks-1.7.10-1.3.4.19-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/compacter-1.1.0.12-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CompactSolars-1.7.10-4.4.39.315-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ComputerCraft1.75.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MineFactoryReloaded-%5B1.7.10%5D2.8.1-174.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Waila-1.5.10_1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EnderIO-1.7.10-2.3.0.429_beta.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EnderStorage-1.7.10-1.4.7.37-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Integration.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/GalacticraftCore-1.7-3.0.12.498.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Computronics-1.7.10-1.6.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CraftTweaker-1.7.10-3.0.13.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Fluxed-Core-MC1710-1.0.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/extrautilities-1.2.12.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TConstruct-1.7.10-1.8.8.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ContentTweaker-1.0.5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ConvenientRecipes-1.7.10-1.3.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/cookingbook-mc1.7.10-1.0.140.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CosmeticArmorReworked-1.7.10-v6b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CustomMainMenu-MC1.7.10-1.9.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/CustomThings-MC1.7.10-0.0.3-55.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/DeathQuotes-1.2.0-mc1.7.10-forge.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Draconic-Evolution-1.7.10-1.0.2h.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/funky-locomotion-1.7.10-beta-7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RedstoneArsenal-%5B1.7.10%5D1.1.3-97.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/magicbees-1.7.10-2.4.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ElectriCraft%201.7.10%20V19b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/enderbatteries-MC1.7.10-0.1-5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.13.56_beta.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EnderTech-1.7.10-0.3.2.405.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectE-1.7.10-PE1.10.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThermalSingularities-1.7.10-1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Universal%20Singularities%20%5BVersion%208%5D-1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/EternalSingularity-1.7.10-1.0.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Ex-Nihilo-1.38-53.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TravellersGear-1.7.10-1.16.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Ex-Astris-Rebirth-MC1.7.10-1.01-45.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ExtraCells-1.7.10-2.3.14b200.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Galacticraft-Planets-1.7-3.0.12.498.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ExtraPlanets-1.9.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Pam's%20HarvestCraft%201.7.10Lb.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ExtraTiC-1.7.10-1.4.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Forbidden%20Magic-1.7.10-0.575.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/FoxLib-1.7.10-0.7.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/FTBLib-1.7.10-1.0.18.3.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/FTBTweaks-1.0.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/FTBUtilities-1.7.10-1.0.18.3.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/gendustry-1.6.3.132-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/generators-0.9.20.123-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Hardcore%20Wither-1.7.10-1.1.3-21-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/iChunUtil-4.2.3.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Hats-4.0.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/HelpFixer-1.0.7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/HEXCraft-1.7.10-0.11.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/IC2NuclearControl-2.4.3a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/IcyAdmin-1.0.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/immersiveintegration-0.6.8.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/LunatriusCore-1.7.10-1.1.2.21-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/InGameInfoXML-1.7.10-2.8.1.82-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ironchest-1.7.10-6.0.62.742-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Jabba-1.2.2_1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/journeymap-1.7.10-5.1.4p2-unlimited.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/kleeslabs-mc1.7.10-1.2.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/LootBags-1.7.10-2.0.17.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/magicalcrops-4.0.0_PUBLIC_BETA_5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/magicalcropsarmoury-4.0.0_PUBLIC_BETA_4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/magicalcropsdeco-4.0.0_PUBLIC_BETA_4a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MatterOverdrive-1.7.10-0.4.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MekanismGenerators-1.7.10-9.1.1.1031.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MekanismTools-1.7.10-9.1.1.1031.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Mercurius-1.7.10-1.0.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MFR%20Compat%20-%20Magical%20Crops%20v1-2-4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/minefactory-magicalcrops-compatibility-1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-World.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MineTweakerRecipeMaker-1.7.10-1.1.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ModTweaker2-0.9.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ModularForcefieldSystem-1.7.10-3.0-ALPHA-7.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MoreChisels-1.7.10-1.0-28.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Morpheus-1.7.10-1.6.21.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MouseTweaks-2.4.4-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/mputils-1.7.10-1.0.8.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/mpbasic-1.7.10-1.0.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/neiaddons-1.12.14.40-mc1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NEIIntegration-MC1.7.10-1.1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NetherOres-%5B1.7.10%5D2.3.1-22.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/netherportalfix-mc1.7.10-1.1.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NoMoreRecipeConflict-0.3(1.7.10).jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NotEnoughKeys-1.7.10-3.0.0b45-dev-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NotEnoughResources-1.7.10-0.1.0-122.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/NuclearCraft-1.9g--1.7.10.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OceanFloor-1.7.10-1.0.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenModularTurrets-1.7.10-2.2.11-238.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenPeripheralCore-1.7.10-1.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenPeripheralAddons-1.7.10-0.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/OpenPeripheralIntegration-1.7.10-0.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/p455w0rdslib-1.7.10-1.0.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/peaether-1.7.10-PEA1.0.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/PneumaticCraft-1.7.10-1.12.7-152-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/PortalGun-4.0.0-beta-6-fix-1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Mechanical.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Compat.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ProjectRed-1.7.10-4.7.0pre12.95-Lighting.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ReactorCraft%201.7.10%20V19c.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ReAuth-3.5.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RebornCore-1.1.0.15-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RedstoneArmory-1.7.10-1.2.0-41.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/rftools-4.23.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/roguelike-1.7.10-1.5.0b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RouterReborn-1.7.10-1.2.0.43-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SimpleAchievements-MC1.7.10-1.1.0-21.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SimpleLabels-1.7.10-1.0-9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SimplyJetpacks-MC1.7.10-1.5.3.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SkyLandsForge-1.7.10_0.0.4.jar.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Snad-1.7.10-1.6.01.31a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/SolarFlux-1.7.10-0.8b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/StorageDrawers-1.7.10-1.10.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/StorageDrawers-Forestry-1.7.10-1.1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Sync-4.0.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/tcinventoryscan-mc1.7.10-1.0.11.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TechReborn-1.7.10-0.7.20.1118-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/thaumcraftneiplugin-1.7.10-1.7a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThaumicEquivalence-1.7.10-1.0.4.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/thaumichorizons-1.7.10-1.1.9.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/ThermalDynamics-%5B1.7.10%5D1.2.1-172.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TiConAutoToolStation-1.7.10-1.1.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TiCTooltips-mc1.7.10-1.2.5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/tinker_io-1.7.10-release%201.5.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TMechworks-1.7.10-0.2.15.106.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Translocator-1.7.10-1.1.2.16-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/TreeGrowingSimulator2014-MC1.7.10-0.0.3-22.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/VeinMiner-1.7.10-0.36.0.496+28a7f13.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/WailaHarvestability-mc1.7.10-1.1.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/WAILAPlugins-MC1.7.10-0.2.0-25.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Wawla-1.0.5.120.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Waystones-mc1.7.10-1.0.12.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/WirelessCraftingTerminal-1.7.10-rv3-1.8.7.4b.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/worldedit-forge-mc1.7.10-6.1.1-dist.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/xprings-1.7.10-1.3.0.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/zettaindustries-1.1-120.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/Ztones-1.7.10-2.2.1.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/1.7.10/ForgeRelocationFMP-1.7.10-0.0.1.2-universal.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/AOBD-2.9.2.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/IguanaTinkerTweaks-1.7.10-2.1.6.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/MooFluids-1.7.10-1.5.01.19a.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/RanchableFluidCows-1.7.10-1.1.5.jar
+- file:/D:/Minecraft/MultiMC/instances/Triton_Dev-1.0.9.13%20BETA/minecraft/mods/UniDict-1.7.10-2.9.2.jar
+
+Blackboard:
+- fcimc9afc808c={wrUpdateTime=0}
+- TweakClasses=[]
+- Tweaks=[]
+- OpenModsCoreLoaded=0.10
+- fml.deobfuscatedEnvironment=false
+- launchArgs={}
+- ArgumentList=[--uuid, 854cb74edc544d0b8d7a0f1dcaa81520, --userProperties, {}, --height, 480, --assetIndex, 1.7.10, --assetsDir, D:\Minecraft\MultiMC\assets, --width, 854, --gameDir, D:\Minecraft\MultiMC\instances\Triton_Dev-1.0.9.13 BETA\minecraft, --accessToken, %removed%, --version, MultiMC5, --userType, mojang, --username, %removed%]
+- optifine.ForgeSplashCompatible=true
+- fcVersion=1.25
